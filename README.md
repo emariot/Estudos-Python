@@ -1,2 +1,13 @@
 # Python-Estudos
-Estudos em Python: Pandas, Numpy, MatplotLib, Seaborn
+---
+* Listas, tuplas e dicionários
+* Revisão de Estruturas Condicionais e de Repetição 
+* Dados e pandas
+* Gráficos python
+* BoxPlot
+* MatplotLib
+* Funções
+* Função para cálculo da média aritmética e geométrica
+* Função para o cálculo da variância populacional e amostral
+* Programa para identificar se um palavra é palíndromo 
+* Programa que usa Bubble sort para ordenar índices de um lista
