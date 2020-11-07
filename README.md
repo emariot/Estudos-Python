@@ -1,7 +1,7 @@
 # Python-Estudos 
 ---
 * Listas, tuplas e dicionários
-* Revisão de Estruturas Condicionais e de Repetição 
+* Revisão: estruturas condicionais e de repetição 
 * Dados e pandas
 * Gráficos python
 * BoxPlot
