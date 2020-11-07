@@ -11,3 +11,4 @@
 * Função para o cálculo da variância populacional e amostral
 * Programa para identificar se um palavra é palíndromo 
 * Programa que usa Bubble sort para ordenar índices de um lista
+* Leitura de dados e análise
