@@ -1,4 +1,4 @@
-# Python-Estudos <i class="material-icons">home</i>
+# Python-Estudos 
 ---
 * Listas, tuplas e dicionários
 * Revisão de Estruturas Condicionais e de Repetição 
