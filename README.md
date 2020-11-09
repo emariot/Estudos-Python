@@ -12,3 +12,4 @@
 * Programa para identificar se um palavra é palíndromo 
 * Programa que usa Bubble sort para ordenar índices de um lista
 * Leitura de dados e análise
+* Extração de dados
