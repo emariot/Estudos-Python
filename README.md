@@ -14,3 +14,6 @@
 * Leitura de dados e análise
 * Extração de dados
 * Leitura de dados Geo-referenciados para construção de mapas
+* Mapa coroplético
+* Leitura de dados IBGE
+
