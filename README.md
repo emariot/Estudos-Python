@@ -16,4 +16,4 @@
 * Leitura de dados Geo-referenciados para construção de mapas
 * Mapa coroplético
 * Leitura de dados IBGE
-
+* Fusão de dados geo-ref. indicadores e mapa de calor.ipynb
