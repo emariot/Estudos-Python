@@ -17,3 +17,4 @@
 * Mapa coroplético
 * Leitura de dados IBGE
 * Fusão de dados geo-ref. indicadores e mapa de calor
+* Revisando req.IBGE com mapa coroplético.ipynb
